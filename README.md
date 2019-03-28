@@ -1,7 +1,7 @@
 # apeEAD
 March 2019: 
 This repository is meant for maintenance of apeEAD, the profile of EAD 2002 currently used in the Archives Portal Europe (APE). 
-Change requests to the schema or the conversion to apeEAD from loacl EAD and XML formats can be added here. 
+Change requests to the schema or the conversion to apeEAD from local EAD and XML formats can be added here. 
 
 The Working Group on Standards (WGoS) will then include these change requests in their monthly meetings, usually held on the third
 Tuesday each month. WGoS will then decide on the best way to address the issue (either by a change of schema or a change of conversion
