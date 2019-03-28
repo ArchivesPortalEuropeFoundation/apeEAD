@@ -17,3 +17,5 @@ When reporting an issue, the following should be provided:
   and the way one would like it to be dealt with in the future)
 
 
+Note:
+More comprehensive information and documentation on apeEAD can be found in the Archives Portal Europe Wiki - http://wiki.archivesportaleurope.net/index.php/apeEAD
